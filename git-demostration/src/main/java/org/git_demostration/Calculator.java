@@ -8,7 +8,7 @@ public class Calculator {
 	 * @param b
 	 * @return a+b
 	 */
-	public static double add(double a , double b) {
+	public static long add(long a , long b) {
 		return a+b;
 	}
 	
@@ -19,7 +19,7 @@ public class Calculator {
 	 * @param b
 	 * @return a-b
 	 */
-	public static double substruction(double a,double b)
+	public static long substruction(long a,long b)
 	{	
 		return a-b;
 	}
@@ -31,7 +31,7 @@ public class Calculator {
 	 * @param b
 	 * @return a/b
 	 */
-	public static double multiplying(double a, double b)
+	public static long multiplying(long a, long b)
 	{
 		return a*b;
 	}
@@ -44,7 +44,7 @@ public class Calculator {
 	 * @return a/b
 	 * @throws Exception
 	 */
-	public static double division(double a,double b) throws ArithmeticException 
+	public static long division(long a,long b) throws ArithmeticException 
 	{
 		if(b==0) throw new ArithmeticException ();
 		
