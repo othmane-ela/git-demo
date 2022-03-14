@@ -1,0 +1,15 @@
+package org.git_demostration;
+
+public class Calculator {
+	
+	
+	public Integer add(Integer a , Integer b) {
+		return a+b;
+	}
+	
+	public substruction()
+	{
+		return a-b;
+	}
+
+}

@@ -37,16 +37,9 @@ public class Calculator {
 	}
 	
 	
-	/**
-	 * 
-	 * @param a
-	 * @param b
-	 * @return a/b
-	 * @throws Exception
-	 */
-	public double division(double a,double b) throws ArithmeticException 
+	public double division(double a,double b) throws Exception
 	{
-		if(b==0) throw new ArithmeticException ();
+		if(b==0) throw new Exception();
 		
 		return a/b;
 	}
