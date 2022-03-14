@@ -477,3 +477,7 @@
 2022-03-14 16:57:46,457 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SQLI\eclipse-workspace\git-demostration\src\main\resources
 2022-03-14 16:57:46,458 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-03-14 16:57:46,459 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SQLI\eclipse-workspace\git-demostration\src\test\resources
+2022-03-14 17:08:58,175 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-14 17:08:58,175 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SQLI\eclipse-workspace\git-demostration\src\main\resources
+2022-03-14 17:08:58,176 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-14 17:08:58,176 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SQLI\eclipse-workspace\git-demostration\src\test\resources
