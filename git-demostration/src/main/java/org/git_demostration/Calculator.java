@@ -38,7 +38,7 @@ public class Calculator {
 	
 	
 	/**
-	 * 
+	 *  division methode 
 	 * @param a
 	 * @param b
 	 * @return a/b
